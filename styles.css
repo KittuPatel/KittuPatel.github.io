@@ -487,7 +487,7 @@ li .description {
   
   /* styles for a common effect !!!YOU NEED THEM */
   .effect {
-	/*display: flex; !!!uncomment this line !!!*/
+	display: flex; 
   }
   .effect a {
 	text-decoration: none !important;
